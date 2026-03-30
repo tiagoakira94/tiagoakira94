@@ -19,7 +19,7 @@ I'm a Intelligence Analyst passionate about helping organizations make sense of 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://tiagoakira94.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
